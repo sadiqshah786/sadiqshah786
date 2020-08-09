@@ -7,5 +7,3 @@
 - 👯 I’m looking to collaborate on GitHub
 - ⚡ Fun fact: I Like and Love Creativity
 
-### Get In Touch
-  <i class=fa fa-facebook></i>

@@ -10,8 +10,8 @@
 
 <table>
   <tr>
-  <td><img src="https://github-readme-stats.vercel.app/api?username=sadiqshah786&show_icons=true&theme=tokyonight"><td>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=sadiqshah786&show_icons=true&theme=tokyonight"><td>
+  <td border=none><img src="https://github-readme-stats.vercel.app/api?username=sadiqshah786&show_icons=true&theme=tokyonight"><td>
+      <td border=none><img src="https://github-readme-stats.vercel.app/api?username=sadiqshah786&show_icons=true&theme=tokyonight"><td>
   </tr>
   </table>
 

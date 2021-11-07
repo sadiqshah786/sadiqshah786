@@ -8,8 +8,10 @@
    <li>📫 How to reach me : Via <a href="https://www.linkedin.com/in/sadiq-shah-806937166/">Linkedin</a></li>
 </ul>
 
-<ul>
-<li style="display:inline-block"><img src="https://github-readme-stats.vercel.app/api?username=sadiqshah786&show_icons=true&theme=tokyonight"></li>
-  <li style="display:inline-block"><img src="https://github-readme-stats.vercel.app/api?username=sadiqshah786&show_icons=true&theme=tokyonight"></li>
-</ul>
+<table>
+  <tr>
+  <td><img src="https://github-readme-stats.vercel.app/api?username=sadiqshah786&show_icons=true&theme=tokyonight"><td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=sadiqshah786&show_icons=true&theme=tokyonight"><td>
+  </tr>
+  </table>
 

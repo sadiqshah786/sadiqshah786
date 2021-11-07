@@ -9,5 +9,4 @@
 </ul>
 
 
-[GitHub Stats](https://github-readme-stats.vercel.api username = "sadiqshah786"
- &theme=radical)
+[GitHub Stats](https://github-readme-stats.vercel.api username = "sadiqshah786"&theme=radical)

@@ -11,7 +11,7 @@
 <table>
   <tr>
   <td border=none><img src="https://github-readme-stats.vercel.app/api?username=sadiqshah786&show_icons=true&theme=tokyonight"><td>
-      <td border=none><img src="https://github-readme-stats.vercel.app/api?username=sadiqshah786&show_icons=true&theme=tokyonight"><td>
+      <td border=none><img src="https://github-readme-streak-stats.herokuapp.com/?user=HAMZA-420&theme=tokyonight"><td>
   </tr>
   </table>
 

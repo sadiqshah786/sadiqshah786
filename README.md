@@ -9,5 +9,4 @@
 </ul>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username="sadiqshah786"
- &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username="sadiqshah786"&theme=radical)

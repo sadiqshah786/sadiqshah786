@@ -9,4 +9,4 @@
 </ul>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username="sadiqshah786"&theme=radical)
+https://github-readme-stats.vercel.app/api?username=sadiqshah786&show_icons=true&theme=tokyonight

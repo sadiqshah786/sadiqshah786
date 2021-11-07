@@ -8,5 +8,5 @@
    <li>📫 How to reach me : Via <a href="https://www.linkedin.com/in/sadiq-shah-806937166/">Linkedin</a></li>
 </ul>
 
-
+https://raw.githubusercontent.com/sadiqshah786/github-stats/master/generated/overview.svg
 https://github-readme-stats.vercel.app/api?username=sadiqshah786&show_icons=true&theme=tokyonight

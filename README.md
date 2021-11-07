@@ -9,7 +9,7 @@
 </ul>
 
 <ul>
-<li><img src="https://github-readme-stats.vercel.app/api?username=sadiqshah786&show_icons=true&theme=tokyonight"></li>
-  <li><img src="https://github-readme-stats.vercel.app/api?username=sadiqshah786&show_icons=true&theme=tokyonight"></li>
+<li style="display:inline-block"><img src="https://github-readme-stats.vercel.app/api?username=sadiqshah786&show_icons=true&theme=tokyonight"></li>
+  <li style="display:inline-block"><img src="https://github-readme-stats.vercel.app/api?username=sadiqshah786&show_icons=true&theme=tokyonight"></li>
 </ul>
 

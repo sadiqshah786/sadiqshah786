@@ -7,7 +7,9 @@
    <li>⚡ Fun fact: I believe <b>#DataScience</b> more than <b>#Web Development</b> While doing job as FrontEnd Developer 😂 </li>
    <li>📫 How to reach me : Via <a href="https://www.linkedin.com/in/sadiq-shah-806937166/">Linkedin</a></li>
 </ul>
-
+  <div class="tec">
+   ><img src="[https://github-readme-streak-stats.herokuapp.com/?user=sadiqshah786&theme=tokyonight](https://cdn-icons-png.flaticon.com/512/888/888859.png)">
+  </div>
 <table>
   <thead>
   <tr>
@@ -22,7 +24,7 @@
   <thead>
   <tr>
     <th></th>
-     <th><img src="[https://github-readme-streak-stats.herokuapp.com/?user=sadiqshah786&theme=tokyonight](https://cdn-icons-png.flaticon.com/512/888/888859.png)"></th>
+     <th</th>
   </tr>
     </thead>
   </table>

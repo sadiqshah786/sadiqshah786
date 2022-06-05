@@ -21,8 +21,8 @@
   <table>
   <thead>
   <tr>
-    <th> <img src="https://github-readme-stats.vercel.app/api?username=sadiqshah786&show_icons=true&theme=tokyonight"></th>
-     <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiqshah786&theme=tokyonight"></th>
+    <th></th>
+     <th><img src="[https://github-readme-streak-stats.herokuapp.com/?user=sadiqshah786&theme=tokyonight](https://cdn-icons-png.flaticon.com/512/888/888859.png)"></th>
   </tr>
     </thead>
   </table>

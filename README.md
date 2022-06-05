@@ -17,4 +17,14 @@
     </thead>
   </table>
   
+  
+  <table>
+  <thead>
+  <tr>
+    <th> <img src="https://github-readme-stats.vercel.app/api?username=sadiqshah786&show_icons=true&theme=tokyonight"></th>
+     <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiqshah786&theme=tokyonight"></th>
+  </tr>
+    </thead>
+  </table>
+  
 

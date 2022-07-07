@@ -7,8 +7,97 @@
    <li>⚡ Fun fact: I believe <b>#DataScience</b> more than <b>#Web Development</b> While doing job as FrontEnd Developer 😂 </li>
    <li>📫 How to reach me : Via <a href="https://www.linkedin.com/in/sadiq-shah-806937166/">Linkedin</a></li>
 </ul>
-  <p align="left" dir="auto"> <a href="https://developer.android.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://babeljs.io/" rel="nofollow"> <img src="https://camo.githubusercontent.com/1abf71d00a4a13bfdeccdc131c65f02644fae4e746289bd7c21bf1d2af986389/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f626162656c6a732f626162656c6a732d69636f6e2e737667" alt="babel" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" style="max-width: 100%;"> </a> <a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.cypress.io" rel="nofollow"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://expressjs.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.figma.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667" alt="figma" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="max-width: 100%;"> </a> <a href="https://firebase.google.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" alt="firebase" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="max-width: 100%;"> </a> <a href="https://www.gatsbyjs.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/ba9df1e4c5f7c9f6503f2668f03a934b4553c5840dd6067ee1ab013c2af86afc/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6761747362796a732f6761747362796a732d69636f6e2e737667" alt="gatsby" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" style="max-width: 100%;"> </a> <a href="https://git-scm.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"> </a> <a href="https://heroku.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/df12cb598044a3f38efc1f45e3580558c324cf8789b79487125044eeebcc4dee/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6865726f6b752f6865726f6b752d69636f6e2e737667" alt="heroku" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" style="max-width: 100%;"> </a> <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://materializecss.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.mongodb.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://nextjs.org/" rel="nofollow"> <img src="https://camo.githubusercontent.com/3aa42ee93eafa8f736bac662e8ca536350dad790ba36f2f0cb1783aa2be42f6d/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6e6578746a732d322e737667" alt="nextjs" width="40" height="40" data-canonical-src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="max-width: 100%;"> </a> <a href="https://www.nginx.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://nodejs.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://nuxtjs.org/" rel="nofollow"> <img src="https://camo.githubusercontent.com/faa52408def7e90dd8b2c84a09a62bf675ba11152395c61dae6a131458fbbae8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e7578746a732f6e7578746a732d69636f6e2e737667" alt="nuxtjs" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" style="max-width: 100%;"> </a> <a href="https://postman.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;"> </a> <a href="https://reactjs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://reactnative.dev/" rel="nofollow"> <img src="https://camo.githubusercontent.com/5c92eeb467fd5d2b1ef1c560e3c3c2f758a8d4e03a8136bda7b41a2d3d4a1b59/68747470733a2f2f72656163746e61746976652e6465762f696d672f6865616465725f6c6f676f2e737667" alt="reactnative" width="40" height="40" data-canonical-src="https://reactnative.dev/img/header_logo.svg" style="max-width: 100%;"> </a> <a href="https://redux.js.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://sass-lang.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://tailwindcss.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/5734d0669fe22ce04a1cb989a156cd32c379875f6bca56d5210c9432824856d9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" alt="tailwind" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="max-width: 100%;"> </a> <a href="https://www.tensorflow.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/b861b92581ad5a7b81147073d729eda727f71985d72f3dd198e0afd792a6f9de/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f74656e736f72666c6f772f74656e736f72666c6f772d69636f6e2e737667" alt="tensorflow" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="max-width: 100%;"> </a> <a href="https://www.typescriptlang.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://vuejs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://webpack.js.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.adobe.com/products/xd.html" rel="nofollow"> <img src="https://camo.githubusercontent.com/c205ecbe12500177d102169d97bc1c17c545155fdf5ec78c08d54ac53e5b38c1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61646f62652d78642e737667" alt="xd" width="40" height="40" data-canonical-src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" style="max-width: 100%;"> </a> </p>
-  
+ <p align="left" dir="auto">
+    <a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;" /> </a>
+    <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;" /> </a>
+    <a href="https://www.cypress.io" rel="nofollow">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40" style="max-width: 100%;" />
+    </a>
+    <a href="https://www.figma.com/" rel="nofollow">
+        <img
+            src="https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667"
+            alt="figma"
+            width="40"
+            height="40"
+            data-canonical-src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+            style="max-width: 100%;"
+        />
+    </a>
+    <a href="https://firebase.google.com/" rel="nofollow">
+        <img
+            src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667"
+            alt="firebase"
+            width="40"
+            height="40"
+            data-canonical-src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+            style="max-width: 100%;"
+        />
+    </a>
+    
+    <a href="https://git-scm.com/" rel="nofollow">
+        <img
+            src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667"
+            alt="git"
+            width="40"
+            height="40"
+            data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+            style="max-width: 100%;"
+        />
+    </a>
+    <a href="https://heroku.com" rel="nofollow">
+        <img
+            src="https://camo.githubusercontent.com/df12cb598044a3f38efc1f45e3580558c324cf8789b79487125044eeebcc4dee/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6865726f6b752f6865726f6b752d69636f6e2e737667"
+            alt="heroku"
+            width="40"
+            height="40"
+            data-canonical-src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
+            style="max-width: 100%;"
+        />
+    </a>
+    <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;" /> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;" />
+    </a>
+    <a href="https://materializecss.com/" rel="nofollow">
+        <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40" style="max-width: 100%;" />
+    </a>
+      
+   
+       
+    <a href="https://sass-lang.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="max-width: 100%;" /> </a>
+    <a href="https://tailwindcss.com/" rel="nofollow">
+        <img
+            src="https://camo.githubusercontent.com/5734d0669fe22ce04a1cb989a156cd32c379875f6bca56d5210c9432824856d9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667"
+            alt="tailwind"
+            width="40"
+            height="40"
+            data-canonical-src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+            style="max-width: 100%;"
+        />
+    </a>
+    <a href="https://www.tensorflow.org" rel="nofollow">
+        <img
+            src="https://camo.githubusercontent.com/b861b92581ad5a7b81147073d729eda727f71985d72f3dd198e0afd792a6f9de/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f74656e736f72666c6f772f74656e736f72666c6f772d69636f6e2e737667"
+            alt="tensorflow"
+            width="40"
+            height="40"
+            data-canonical-src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
+            style="max-width: 100%;"
+        />
+    </a>
+
+    <a href="https://www.adobe.com/products/xd.html" rel="nofollow">
+        <img
+            src="https://camo.githubusercontent.com/c205ecbe12500177d102169d97bc1c17c545155fdf5ec78c08d54ac53e5b38c1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61646f62652d78642e737667"
+            alt="xd"
+            width="40"
+            height="40"
+            data-canonical-src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"
+            style="max-width: 100%;"
+        />
+    </a>
+</p>
+
   
   <table>
   <thead>

@@ -23,7 +23,7 @@
    
    
     <a href="https://pandas.pydata.org/" rel="nofollow"> <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="tensorflow" width="40" height="40" data-canonical-src="https://pandas.pydata.org/static/img/pandas_white.svg" style="max-width: 100%;"> </a>
-     <a href="https://numpy.org/" rel="nofollow"> <img src="https://numpy.org/images/logo.svg" alt="tensorflow" width="40" height="40" data-canonical-src="[https://geo-python.github.io/2017/_images/pandas_logo.png](https://numpy.org/images/logo.svg)" style="max-width: 100%;"> </a>
+     <a href="https://numpy.org/" rel="nofollow"> <img src="https://numpy.org/images/logo.svg" alt="tensorflow" width="40" height="40" data-canonical-src="https:https://numpy.org/images/logo.svg" style="max-width: 100%;"> </a>
 </p>
 
   <table>

@@ -5,6 +5,7 @@
    <li>👯 I’m looking to collaborate on GitHub</li>
    <li>⚡ Fun fact: I believe <b>#DataScience</b> more than <b>#Web Development</b> While doing job as FrontEnd Developer 😂 </li>
    <li>📫 How to reach me : Via <a href="https://www.linkedin.com/in/sadiq-shah-806937166/">Linkedin</a></li>
+  <li>📫 How to reach my skills : Via <a href="https://techrevolution.speedypunch.com/portfolio">Portfolio</a></li>
 </ul>
 <p>
   <h3>Languages and Tools:</h3>

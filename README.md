@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sadiq Shah</h1>
-<h3 align="center">Passionate about turning ideas into elegant code and excited to collaborate on projects that challenge the status quo. Let's build experiences that users will love and remember. Open to new opportunities and ready to shape the digital world, one pixel at a time! 💻🎉 #FrontendMaestro</h3>
+<p align="center">Passionate about turning ideas into elegant code and excited to collaborate on projects that challenge the status quo. Let's build experiences that users will love and remember. Open to new opportunities and ready to shape the digital world, one pixel at a time! 💻🎉 #FrontendMaestro</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadiqshah786&label=Profile%20views&color=0e75b6&style=flat" alt="sadiqshah786" /> </p>
 
